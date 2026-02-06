@@ -1,0 +1,1 @@
+The AI predicted a test score of 82.75 for a student who studied 6 hours and slept 8 hours.
